@@ -2,8 +2,8 @@
 Contributors: smplug-in
 Tags: facebook like box, Facebook like box widget, like box, Facebook Page, Facebook
 Requires at least: 2.9
-Tested up to: 6.6
-Stable tag: 0.8.42
+Tested up to: 6.7
+Stable tag: 0.8.43
 
 WordPress Facebook Like box plugin will help you to display like box on your website, just add our plugin widget to your sidebar and use it. Also you can use our plugin on your pages/posts and create fan page popup for your website. 
 
@@ -727,6 +727,10 @@ Contact us at support@wpdevart.com and we will send you the pro version.
 = 0.8.42 =
 
 * Removed a featured plugin.
+
+= 0.8.43 =
+
+* Bugs fixed.
 
 ==Step by step guide==
 
