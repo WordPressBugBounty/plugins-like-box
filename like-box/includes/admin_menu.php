@@ -41,7 +41,7 @@ class like_box_admin_menu{
 		add_action( 'wp_ajax_like_box_send_mail', array($this,'sending_mail') );
 	}
 	
-	/*############################### Insert button function ########################################*/
+	/*############################### Inserting button function ########################################*/
 	
 	public function like_box_button($context) {
 	  
@@ -56,7 +56,7 @@ class like_box_admin_menu{
 	  echo $context;
 	}
 
-	/*############################### Insert social like box - content function ########################################*/	
+	/*############################### Inserting Like Box - content function ########################################*/	
 	
 	public function like_box_window_insert_content(){
 		?>
@@ -624,7 +624,7 @@ die;
 		</div>        
 		<?php	
 	}
-	/*#########################  STICKY BOX SECTION   #################################*/
+	/*#########################  STICKY LIKE BOX FUNCTION   #################################*/
 	public function generete_sidbar_slide_section($page_parametrs){
 
 		?>
